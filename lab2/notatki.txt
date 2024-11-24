@@ -1,0 +1,2 @@
+Błąd w rekurencyjnym odracaniu macierzy slajd 14/17
+Używać swoich algorytmów

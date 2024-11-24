@@ -1,0 +1,8 @@
+Dodatkowe zadania na wykładach
+Zadanie w dowolnym języku + Raport, Referowanie na Ćwiczeniach
+Trzeba wgrać do Upela przed kolejnymi zajęciami
+120 pkt (10 za zadanie) (5 za zadanie na wykładzie)
+Trzeba wykonać 10 na 12 zadań
+REFERAT w PDF, ROZWIĄZANIE w JEDNYM PLIKU TEKSTOWYM w wybranym języku
+MOŻNA W NOTEBOOKU
+EXPORT: python -m jupyter nbconvert --to pdf --TagRemovePreprocessor.remove_cell_tags='{"hide_code"}' lab1/mesek_zestaw1.ipynb
